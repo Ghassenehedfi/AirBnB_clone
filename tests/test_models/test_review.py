@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Defines unittests for models/review.py.
-Unittest classes:
+Unit test lasses:
     TestReview_instantiation
     TestReview_save
     TestReview_to_dict
